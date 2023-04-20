@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Testimonios/static/css/main.a9db92ae.css",
+    "main.js": "/Testimonios/static/js/main.8bbe8b06.js",
+    "static/media/Emma.png": "/Testimonios/static/media/Emma.add10415a5668325d2f2.png",
+    "static/media/Sarah.png": "/Testimonios/static/media/Sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/Shawn.png": "/Testimonios/static/media/Shawn.0d373888087fb18fc145.png",
+    "index.html": "/Testimonios/index.html",
+    "main.a9db92ae.css.map": "/Testimonios/static/css/main.a9db92ae.css.map",
+    "main.8bbe8b06.js.map": "/Testimonios/static/js/main.8bbe8b06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9db92ae.css",
+    "static/js/main.8bbe8b06.js"
+  ]
+}
